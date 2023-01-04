@@ -1,0 +1,20 @@
+
+body {
+    background-color: #DBF9FC;
+    }
+  
+  button {
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
+input {
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
+textarea {
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
